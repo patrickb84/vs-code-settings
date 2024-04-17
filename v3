@@ -1,0 +1,182 @@
+{
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "inline",
+  "editor.fontFamily": "Cascadia Code PL",
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "editor.fontSize": 14,
+  "editor.guides.indentation": true,
+  "terminal.integrated.fontFamily": "Cascadia Code",
+  "terminal.integrated.fontSize": 14,
+  "debug.console.fontSize": 14,
+  "debug.console.fontFamily": "Cascadia Code PL",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 30,
+  "workbench.tips.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 14,
+  "explorer.confirmDelete": false,
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "*.js": "javascript",
+    "*.tsx": "typescriptreact",
+    "*.ascx": "html"
+  },
+  "projectManager.hg.ignoredFolders": [
+    "node_modules",
+    "out",
+    "typings",
+    "test",
+    ".haxelib"
+  ],
+  "terminal.integrated.cursorStyle": "block",
+  "diffEditor.renderSideBySide": true,
+  "extensions.ignoreRecommendations": false,
+  "explorer.compactFolders": false,
+  "explorer.sortOrder": "foldersNestsFiles",
+  "workbench.sideBar.location": "left",
+  "projectManager.git.baseFolders": [
+    "~/codebase"
+  ],
+  "colorize.languages": [
+    "javascriptreact",
+    "javascript",
+    "css",
+    "scss"
+  ],
+  "editor.linkedEditing": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "peacock.affectActivityBar": false,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "backgroundColor": "red",
+      "strikethrough": false,
+      "color": "white"
+    },
+    {
+      "tag": ":!",
+      "backgroundColor": "transparent",
+      "color": "#c62828"
+    },
+    {
+      "tag": "^",
+      "backgroundColor": "#ffee58",
+      "color": "black"
+    },
+    {
+      "tag": ":^",
+      "color": "#ffee58",
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": ":$",
+      "backgroundColor": "transparent",
+      "color": "#00c853"
+    },
+    {
+      "tag": "$",
+      "backgroundColor": "#00c853",
+      "color": "black"
+    },
+    {
+      "tag": ":?",
+      "color": "#2962ff",
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "?",
+      "backgroundColor": "#2962ff",
+      "color": "white"
+    },
+    {
+      "tag": "#",
+      "backgroundColor": "#546e7a",
+      "color": "#fff"
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "todo",
+      "backgroundColor": "#FF8C00",
+      "strikethrough": false,
+      "color": "#000"
+    },
+    {
+      "tag": "*",
+      "backgroundColor": "#00796b",
+      "strikethrough": false,
+      "color": "white"
+    }
+  ],
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "editor.cursorBlinking": "phase",
+  "terminal.integrated.cursorBlinking": true,
+  "codestats.apikey": "SFMyNTY.Y0dGMGNtbGphMkk0TkE9PSMjTVRnMk1qZz0.cAD8aMD23mJyK8st4X3dyB5lbkavV8uCOO44mgEzJA0",
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "razor": "html"
+  },
+  "git.autofetch": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorTheme": "Night Owl",
+  "workbench.colorCustomizations": {
+    "[Night Owl]": {
+      "activityBar.background": "#000C1D",
+      "activityBar.border": "#102a44",
+      "sideBar.background": "#001122",
+      "sideBar.border": "#102a44",
+      "sideBar.foreground": "#8BADC1",
+      "editorGroup.border": "#102a44",
+      "terminal.ansiBlue": "#0034a4",
+      "terminal.ansiBlack": "#000000"
+    }
+  },
+  "terminal.integrated.persistentSessionScrollback": 100000,
+  "terminal.integrated.scrollback": 100000,
+  "workbench.editorAssociations": {
+    "*.png": "imagePreview.previewEditor"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "terminal.integrated.shellIntegration.history": 200,
+  "javascript.validate.enable": false,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "workbench.editor.decorations.colors": false,
+  "explorer.decorations.colors": false,
+  "workbench.editor.enablePreview": true,
+  "editor.accessibilitySupport": "off",
+  "workbench.startupEditor": "none",
+  "editor.wordWrapColumn": 200,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.openRepositoryInParentFolders": "never",
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+}
