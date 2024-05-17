@@ -1,7 +1,5 @@
 {
-  "explorer.compactFolders": false,
-  "explorer.decorations.colors": false,
-  "explorer.sortOrder": "foldersNestsFiles",
+  "breadcrumbs.enabled": false,
   "workbench.editor.decorations.colors": false,
   "workbench.editor.enablePreview": true,
   "workbench.editorAssociations": {
