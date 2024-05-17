@@ -1,0 +1,15 @@
+{
+  "explorer.compactFolders": false,
+  "explorer.decorations.colors": false,
+  "explorer.sortOrder": "foldersNestsFiles",
+  "workbench.editor.decorations.colors": false,
+  "workbench.editor.enablePreview": true,
+  "workbench.editorAssociations": {
+    "*.png": "imagePreview.previewEditor"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "left",
+  "workbench.startupEditor": "none",
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.tree.indent": 14
+}

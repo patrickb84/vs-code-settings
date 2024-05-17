@@ -1,0 +1,12 @@
+{
+  "debug.console.fontFamily": "Cascadia Code PL",
+  "debug.console.fontSize": 14,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "block",
+  "terminal.integrated.fontFamily": "Cascadia Code",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.persistentSessionScrollback": 100000,
+  "terminal.integrated.scrollback": 100000,
+  "terminal.integrated.shellIntegration.history": 200,
+  "breadcrumbs.enabled": false,
+}

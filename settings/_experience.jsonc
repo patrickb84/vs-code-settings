@@ -1,0 +1,24 @@
+{
+  "colorize.languages": [
+    "javascriptreact",
+    "javascript",
+    "css",
+    "scss"
+  ],
+  "diffEditor.renderSideBySide": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "razor": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "extensions.ignoreRecommendations": false,
+  "git.autofetch": true,
+  "git.mergeEditor": true,
+  "git.openRepositoryInParentFolders": "never",
+  "github.copilot.enable": {
+    "*": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}

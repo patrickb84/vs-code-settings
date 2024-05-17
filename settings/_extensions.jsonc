@@ -1,0 +1,57 @@
+{
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "backgroundColor": "red",
+      "strikethrough": false,
+      "color": "white",
+    },
+    {
+      "tag": "^",
+      "backgroundColor": "#ffee58",
+      "color": "black",
+    },
+    {
+      "tag": "$",
+      "backgroundColor": "#00c853",
+      "color": "black",
+    },
+    {
+      "tag": "?",
+      "backgroundColor": "#2962ff",
+      "color": "white",
+    },
+    {
+      "tag": "#",
+      "backgroundColor": "#546e7a",
+      "color": "#fff",
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "backgroundColor": "transparent",
+    },
+    {
+      "tag": "todo",
+      "backgroundColor": "#FF8C00",
+      "strikethrough": false,
+      "color": "#000",
+    },
+    {
+      "tag": "*",
+      "backgroundColor": "#00796b",
+      "strikethrough": false,
+      "color": "white",
+    },
+  ],
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]",
+  ],
+}

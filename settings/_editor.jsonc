@@ -1,0 +1,19 @@
+{
+  "editor.accessibilitySupport": "off",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeLens": false,
+  "editor.cursorBlinking": "phase",
+  "editor.fontFamily": "Cascadia Code PL",
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "editor.fontSize": 14,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.snippetSuggestions": "inline",
+  "editor.stickyScroll.enabled": false,
+  "editor.tabCompletion": "on",
+  "editor.wordWrapColumn": 200
+}

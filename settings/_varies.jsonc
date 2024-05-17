@@ -1,0 +1,11 @@
+{
+  "projectManager.git.baseFolders": ["~/codebase"],
+  "projectManager.hg.ignoredFolders": [
+    "node_modules",
+    "out",
+    "typings",
+    "test",
+    ".haxelib",
+  ],
+  "security.workspace.trust.untrustedFiles": "open",
+}
